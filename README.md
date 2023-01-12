@@ -29,7 +29,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://egghead.io/courses/architect-an-extensible-digital-garden-with-next-js-tailwind-and-nx-53f7628f">[Course] </a>
-        <a href="https://github.com/adrianodev97/Architect-extensible-digital-garden">Architect an Extensible Digital Garden with Next.js, Tailwind, and Nx</a> (18%)
+        <a href="https://github.com/adrianodev97/Architect-extensible-digital-garden">Architect an Extensible Digital Garden with Next.js, Tailwind, and Nx</a> (45%)
       </summary>
       <ul>
         <li>
