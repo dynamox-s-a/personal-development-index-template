@@ -46,7 +46,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://egghead.io/courses/scale-react-development-with-nx-4038">[Course] </a>
-        <a href="https://github.com/adrianodev97/Scale-react-dev-with-nx">Scale React Development with Nx</a> (0%)
+        <a href="https://github.com/adrianodev97/Scale-react-dev-with-nx">Scale React Development with Nx</a> (33.28%)
       </summary>
       <ul>
         <li>
