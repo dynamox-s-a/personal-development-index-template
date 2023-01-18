@@ -46,7 +46,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://egghead.io/courses/scale-react-development-with-nx-4038">[Course] </a>
-        <a href="https://github.com/adrianodev97/Scale-react-dev-with-nx">Scale React Development with Nx</a> (33.28%)
+        <a href="https://github.com/adrianodev97/Scale-react-dev-with-nx">Scale React Development with Nx</a> (72.72%)
       </summary>
       <ul>
         <li>
@@ -111,6 +111,22 @@ This is a simple document that aims to list and index evidences of personal deve
       <summary>
         <a href="https://www.oreilly.com/library/view/extreme-programming-pocket/9781449399849/">[Book] </a>
         <a href="#">Extreme Programming - Pocket Guide</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://books.google.com.br/books/about/Clean_Code.html?hl=pt-BR&id=dwSfGQAACAAJ&redir_esc=y">[Book] </a>
+        <a href="#">Clean Code: A handbook of Agile Software Craftsmanship</a> (0%)
       </summary>
       <ul>
         <li>
