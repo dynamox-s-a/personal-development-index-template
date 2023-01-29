@@ -41,22 +41,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/integrate-storybook-in-a-next-js-application-b6dd4df3">[Course] </a>
-        <a href="#">Integrate Storybook in a Next.js Application</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8">[Course] </a>
         <a href="#">Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (0%)
       </summary>
@@ -158,6 +142,22 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
+        <a href="https://egghead.io/courses/integrate-storybook-in-a-next-js-application-b6dd4df3">[Course] </a>
+        <a href="#">Integrate Storybook in a Next.js Application</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 28/01/2023
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
         <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] </a>
         <a href="#">WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (0%)
       </summary>
@@ -207,11 +207,11 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://www.oreilly.com/library/view/extreme-programming-pocket/9781449399849/">[Book] </a>
-        <a href="#">Extreme Programming - Pocket Guide</a> (0%)
+        <a href="#">Extreme Programming - Pocket Guide</a> (15.38%)
       </summary>
       <ul>
         <li>
-          Started: 
+          Started: 22/01/2023
         </li>
         <li>
           Finished: 
@@ -227,7 +227,7 @@ This is a simple document that aims to list and index evidences of personal deve
       </summary>
       <ul>
         <li>
-          Started: 
+          Started: 29/01/2023
         </li>
         <li>
           Finished: 
