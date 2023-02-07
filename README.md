@@ -158,6 +158,22 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
+        <a href="https://egghead.io/courses/ecommerce-product-management-storefront-with-graphcms-snipcart-next-js-13cc0534">[Course] </a>
+        <a href="#">ECommerce Product Management & Storefront com GraphCMS, Snipcart, & Next.js</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
         <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] </a>
         <a href="#">WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (0%)
       </summary>
