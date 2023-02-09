@@ -125,7 +125,7 @@ This is a simple document that aims to list and index evidences of personal deve
           Started: 07/02/2023
         </li>
         <li>
-          Finished:08/02/2023
+          Finished: 08/02/2023
         </li>
       </ul>
       </details>
@@ -140,7 +140,7 @@ This is a simple document that aims to list and index evidences of personal deve
           Started: 09/02/2023
         </li>
         <li>
-          Finished:09/02/2023
+          Finished: 09/02/2023
         </li>
       </ul>
       </details>
