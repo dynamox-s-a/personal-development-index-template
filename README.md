@@ -145,22 +145,7 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
-    <li>
-    <details> 
-      <summary>
-        <a href="https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8>[Course] Modern Redux with Redux Toolkit (RTK) and TypeScript </a> (10%)
-      </summary>
-      <ul>
-        <li>
-          Started: 09/02/2023
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
+   <li>
     <details> 
     <summary>
       <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (0%)
@@ -205,4 +190,20 @@ This is a simple document that aims to list and index evidences of personal deve
     </ul>
     </details>
   </li>
+    <li>
+      <details> 
+    <summary>
+      <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b">[Course] Confidently Testing Redux Applications with Jest & TypeScript  </a> (25%)
+    </summary>
+    <ul>
+      <li>
+        Started: 09/02/2023
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
+ 
 </br>
