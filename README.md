@@ -190,4 +190,18 @@ This is a simple document that aims to list and index evidences of personal deve
     </ul>
     </details>
   </li>
+      <details> 
+    <summary>
+      <a href="https://open.spotify.com/episode/0fFkB3gxS5sTZW2YzdBfci?si=096dffc0a2494322&nd=1">[Course] SEO for Developers ft. Mordy Oberstein - JSJ 509 </a> (0%)
+    </summary>
+    <ul>
+      <li>
+        Started:
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
 </br>
