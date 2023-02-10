@@ -148,7 +148,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8>[Course] Modern Redux with Redux Toolkit (RTK) and TypeScript </a> (100%)
+        <a href="https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8>[Course] Modern Redux with Redux Toolkit (RTK) and TypeScript </a> (10%)
       </summary>
       <ul>
         <li>
@@ -190,6 +190,7 @@ This is a simple document that aims to list and index evidences of personal deve
     </ul>
     </details>
   </li>
+  <li>
       <details> 
     <summary>
       <a href="https://open.spotify.com/episode/0fFkB3gxS5sTZW2YzdBfci?si=096dffc0a2494322&nd=1">[Course] SEO for Developers ft. Mordy Oberstein - JSJ 509 </a> (0%)
