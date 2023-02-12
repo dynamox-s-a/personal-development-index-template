@@ -161,6 +161,21 @@ This is a simple document that aims to list and index evidences of personal deve
     </details>
   </li>
   <li>
+    <details> 
+    <summary>
+      <a href="https://www.udemy.com/course/cypress-10-component-testing-tutorial/">[Course] </a> <a href=""> Cypress 10 Component Testing Tutorial<a> (10%)
+    </summary>
+    <ul>
+      <li>
+        Started: 12/02/2023
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
+  <li>
       <details> 
     <summary>
       <a href="https://open.spotify.com/episode/0fFkB3gxS5sTZW2YzdBfci?si=096dffc0a2494322&nd=1">[Podcast] </a> <a href=""> SEO for Developers ft. Mordy Oberstein - JSJ 509 </a> (0%)
