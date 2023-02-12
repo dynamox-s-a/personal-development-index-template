@@ -1,0 +1,24 @@
+Não precisa do servidor rodando para testar o componente
+
+Usamos o cy.mount() para montar o componente em um elemento do DOM virtual, e o cy.get() para selecionar o elemento que queremos testar.
+
+Podemos criar comandos customizados para facilitar a escrita dos testes. No exemplo abaixo, criamos um comando customizado para selecionar o elemento do componente.
+
+```js
+Cypress.Commands.add('getBySel', (selector, ...args) => {
+  return cy.get(`[data-test=${selector}]`, ...args)
+})
+```
+
+E podemos usar o comando customizado no teste:
+
+```js
+it('should render the component', () => {
+  cy.mount(<App />)
+  cy.getBySel('app').should('exist')
+})
+```
+
+Para que o componente tenha os estilos css aplicados, precisamos importar o arquivo css no teste.
+
+Criei um componente simples de formulario para aplicar os testes que aprendi neste curso, e tanto o teste quanto o componente estão no /cypress/component/Forms.tsx e Forms.cy.jsx
