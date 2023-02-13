@@ -21,4 +21,6 @@ it('should render the component', () => {
 
 Para que o componente tenha os estilos css aplicados, precisamos importar o arquivo css no teste.
 
+Para melhorar o tempo de execução de teste do Cypress, podemos deixar um estado pré setado para a renderização seja através do Redux ou Local Storage (depende de como o componente foi escrito)
+
 Criei um componente simples de formulario para aplicar os testes que aprendi neste curso, e tanto o teste quanto o componente estão no /cypress/component/Forms.tsx e Forms.cy.jsx
