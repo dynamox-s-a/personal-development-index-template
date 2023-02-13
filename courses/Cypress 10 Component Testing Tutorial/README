@@ -4,7 +4,7 @@ Usamos o cy.mount() para montar o componente em um elemento do DOM virtual, e o 
 
 Podemos criar comandos customizados para facilitar a escrita dos testes. No exemplo abaixo, criamos um comando customizado para selecionar o elemento do componente.
 
-```javasript
+```
 Cypress.Commands.add('getBySel', (selector, ...args) => {
   return cy.get(`[data-test=${selector}]`, ...args)
 })
@@ -12,7 +12,7 @@ Cypress.Commands.add('getBySel', (selector, ...args) => {
 
 E podemos usar o comando customizado no teste:
 
-```javascript
+```
 it('should render the component', () => {
   cy.mount(<App />)
   cy.getBySel('app').should('exist')
