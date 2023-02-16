@@ -12,7 +12,7 @@ Cypress.Commands.add('getBySel', (selector, ...args) => {
 
 E podemos usar o comando customizado no teste:
 
-```
+``` 
 it('should render the component', () => {
   cy.mount(<App />)
   cy.getBySel('app').should('exist')
