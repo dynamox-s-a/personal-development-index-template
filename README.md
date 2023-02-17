@@ -159,14 +159,14 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://egghead.io/courses/ecommerce-product-management-storefront-with-graphcms-snipcart-next-js-13cc0534">[Course] </a>
-        <a href="https://github.com/adrianodev97/Ecommerce-product-management">ECommerce Product Management & Storefront com GraphCMS, Snipcart, & Next.js</a> (77.78%)
+        <a href="https://github.com/adrianodev97/Ecommerce-product-management">ECommerce Product Management & Storefront com GraphCMS, Snipcart, & Next.js</a> (100%)
       </summary>
       <ul>
         <li>
           Started: 08/02/2023
         </li>
         <li>
-          Finished: 
+          Finished: 17/02/2023
         </li>
       </ul>
       </details>
