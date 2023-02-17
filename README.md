@@ -143,14 +143,14 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://egghead.io/courses/integrate-storybook-in-a-next-js-application-b6dd4df3">[Course] </a>
-        <a href="https://github.com/adrianodev97/Storybook-nextjs-application">Integrate Storybook in a Next.js Application</a> (28.57%)
+        <a href="https://github.com/adrianodev97/Storybook-nextjs-application">Integrate Storybook in a Next.js Application</a> (100%)
       </summary>
       <ul>
         <li>
           Started: 28/01/2023
         </li>
         <li>
-          Finished: 
+          Finished: 17/02/2023
         </li>
       </ul>
       </details>
