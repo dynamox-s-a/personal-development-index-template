@@ -163,7 +163,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] </a> <a href=""> Systems Design Fundamentals </a>(0%)
+      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] </a> <a href=""> Systems Design Fundamentals </a>(33%)
     </summary>
     <ul>
       <li>
