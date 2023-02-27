@@ -100,6 +100,21 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>2023</h1>
 <ul>
+ <li>
+    <details> 
+      <summary>
+        <a href="https://www.youtube.com/watch?v=qAbluRQ6uf0&t=4032sf">[Workshop] </a> <a href=""> Ignite Lab Node.js (edição: dez/2022) </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
 <li>
     <details> 
       <summary>
