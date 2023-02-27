@@ -103,7 +103,7 @@ This is a simple document that aims to list and index evidences of personal deve
 <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/scale-react-development-with-nx-4038">[Course]</a> <a  href=""> Scale React Development with Nx</a> (100%)
+        <a href="https://egghead.io/courses/scale-react-development-with-nx-4038">[Course]</a> <a  href=""> Scale React Development with Nx</a> (100%)  ✔️
       </summary>
       <ul>
         <li>
@@ -118,7 +118,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://learn.cypress.io/">[Course]</a> <a href="">Real World Testing with Cypress</a> (100%)
+        <a href="https://learn.cypress.io/">[Course]</a> <a href="">Real World Testing with Cypress</a> (100%)  ✔️
       </summary>
       <ul>
         <li>
@@ -163,7 +163,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://www.udemy.com/course/cypress-10-component-testing-tutorial/">[Course] </a> <a href=""> Cypress 10 Component Testing Tutorial<a> (100%)
+      <a href="https://www.udemy.com/course/cypress-10-component-testing-tutorial/">[Course] </a> <a href=""> Cypress 10 Component Testing Tutorial<a> (100%)  ✔️
     </summary>
     <ul>
       <li>
@@ -193,7 +193,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <li>
       <details> 
     <summary>
-      <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b">[Course] </a> <a href="https://github.com/ItaloRAmaral/personal-development-index/tree/main/courses/Testing_redux_with_ts_and_jest"> Confidently Testing Redux Applications with Jest & TypeScript<a> (100%)
+      <a href="https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b">[Course] </a> <a href="https://github.com/ItaloRAmaral/personal-development-index/tree/main/courses/Testing_redux_with_ts_and_jest"> Confidently Testing Redux Applications with Jest & TypeScript<a> (100%)   ✔️
     </summary>
     <ul>
       <li>
