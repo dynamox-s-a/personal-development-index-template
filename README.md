@@ -103,7 +103,7 @@ This is a simple document that aims to list and index evidences of personal deve
  <li>
     <details> 
       <summary>
-        <a href="https://www.youtube.com/watch?v=qAbluRQ6uf0&t=4032sf">[Workshop] </a> <a href=""> Ignite Lab Node.js (edição: dez/2022) </a> (0%)
+        <a href="https://www.youtube.com/watch?v=qAbluRQ6uf0&t=4032sf">[Workshop] </a> <a href=""> Ignite Lab Node.js (edição: dez/2022) </a> (33%)
       </summary>
       <ul>
         <li>
@@ -163,7 +163,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] </a> <a href=""> Systems Design Fundamentals </a>(33%)
+      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] </a> <a href=""> Systems Design Fundamentals </a>(0%)
     </summary>
     <ul>
       <li>
