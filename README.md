@@ -220,6 +220,22 @@ This is a simple document that aims to list and index evidences of personal deve
       </details>
   </li>
   <li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Course] </a>
+        <a href="#">Beginner's TypeScript</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 27/02/2023
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
     <details> 
       <summary>
         <a href="https://www.oreilly.com/library/view/extreme-programming-pocket/9781449399849/">[Book] </a>
