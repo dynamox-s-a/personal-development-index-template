@@ -102,6 +102,22 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/courses/build-a-saas-product-with-next-js-supabase-and-stripe-61f2bc20">[Course] </a>
+        <a href="#">Build a SaaS product with Next.js, Supabase and Stripe</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
 </ul>
 </br>
 
