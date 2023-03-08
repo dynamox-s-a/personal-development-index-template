@@ -222,12 +222,12 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide">[Course] </a>
-        <a href="#">Next JS & Typescript with Shopify Integration - Full Guide</a> (0%)
+        <a href="https://www.udemy.com/course/next-js-typescript-with-shopify-integration-full-guide/">[Course] </a>
+        <a href="https://github.com/adrianodev97/Virtual-store-integrated-with-shopify">Next JS & Typescript with Shopify Integration - Full Guide</a> (1%)
       </summary>
       <ul>
         <li>
-          Started: 
+          Started: 08/03/2023
         </li>
         <li>
           Finished: 
