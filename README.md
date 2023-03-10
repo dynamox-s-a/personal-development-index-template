@@ -223,7 +223,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://www.udemy.com/course/next-js-typescript-with-shopify-integration-full-guide/">[Course] </a>
-        <a href="https://github.com/adrianodev97/Virtual-store-integrated-with-shopify">Next JS & Typescript with Shopify Integration - Full Guide</a> (1%)
+        <a href="https://github.com/adrianodev97/Virtual-store-integrated-with-shopify">Next JS & Typescript with Shopify Integration - Full Guide</a> (17.14%)
       </summary>
       <ul>
         <li>
