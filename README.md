@@ -145,21 +145,7 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
-   <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react">[Course]</a> <a href=""> Microfrontends with React: A Complete Developer's Guide </a> (0%)
-    </summary>
-    <ul>
-        <li>
-          Started:
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
+ 
   <li>
     <details> 
     <summary>
