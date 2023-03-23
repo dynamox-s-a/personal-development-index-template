@@ -103,7 +103,7 @@ This is a simple document that aims to list and index evidences of personal deve
  <li>
     <details> 
       <summary>
-        <a href="https://www.youtube.com/watch?v=qAbluRQ6uf0&t=4032sf">[Workshop] </a> <a href="https://github.com/ItaloRAmaral/personal-development-index/tree/main/courses/Notification_service_igniteLab_dez22"> Ignite Lab Node.js (edition: dez/2022) </a> (33%)
+        <a href="https://www.youtube.com/watch?v=qAbluRQ6uf0&t=4032sf">[Workshop] </a> <a href="https://github.com/ItaloRAmaral/personal-development-index/tree/main/courses/Notification_service_igniteLab_dez22"> Ignite Lab Node.js (edition: dez/2022) </a> (100%) ✔️
       </summary>
       <ul>
         <li>
