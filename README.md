@@ -39,6 +39,21 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
+        <a href="https://egghead.io/courses/build-high-speed-monorepos-with-nx-and-pnpm-workspaces-27703a7a">[Workshop] Build High-Speed Monorepos with Nx and pnpm Workspaces</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
         <a href="https://egghead.io/courses/scale-react-development-with-nx-4038">[Course] Scale React Development with Nx</a> (0%)
       </summary>
       <ul>
