@@ -115,6 +115,51 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+   <li>
+    <details> 
+      <summary>
+        <a href=""> [Book] Testes Funcionais de Software </a> (35%) 
+      </summary>
+      <ul>
+        <li>
+          Started: 01/03/2023
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+     <li>
+    <details> 
+      <summary>
+        <a href=""> [Book] Extreme Programming - Pocket Guide </a> (0%) 
+      </summary>
+      <ul>
+        <li>
+          Started: 01/03/2023
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/ItaloRAmaral/PsychologistClinicControl"> [Project] Psychologist Clinic Control </a> (1%) 
+      </summary>
+      <ul>
+        <li>
+          Started: 25/02/2023
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
 <li>
     <details> 
       <summary>
