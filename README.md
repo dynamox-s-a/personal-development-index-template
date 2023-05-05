@@ -118,7 +118,7 @@ This is a simple document that aims to list and index evidences of personal deve
    <li>
     <details> 
       <summary>
-        <a href=""> [Book] Testes Funcionais de Software </a> (35%) 
+        <a href=""> [Book] Testes Funcionais de Software </a> (50%) 
       </summary>
       <ul>
         <li>

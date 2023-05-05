@@ -144,4 +144,20 @@ As principais funções são:
 - Especificar as entregas do projeto
 - Ter as informações históricas do projeto, de forma a suportar a auditria e melhorias para futuros projetos.
 
-#### 4 - Principais etapas de Elaboração de um plano de teste 
+#### 4 - Principais etapas de Elaboração de um plano de teste
+- Definição de escopo: define o que se deve testar em nível macro
+- Identificação de requisitos e casos de teste: identificação dos requisitos de teste de forma hierárquica e descritiva, de maneira que possamos entendê-lo. Identificação dos casos de teste que abranjam os requerimentos de teste em detalhes, incluindo aí os passos de execução dos testes
+- Identificação das prioridades: o que se deve testar e qual a ordem
+- Definição da estratégia: identificação das técnicas de teste que serão utilizadas em quais requisitos
+- Identificação de recursos: quem fará o que e o que será utilizado (software, etc.)
+- Criação de Schedule: elaboração de um cronograma de testes
+- Geração de documento de plano de teste: geração a documentação formal e revisada, com as devidas análises do planejamento de teste;
+- Atualização constante do plano de testes: aqui o plano de teste será atualizado com os resultados finais de cada teste e com os defeito encontrados
+
+#### 5 - Modelos e Padrões Internacionais Específicos de Planos de Teste: Visão Global
+
+Existem diversos padrões específicos de elaboração e uso do plano de testes. Os principais são:
+  - PMI / PMBOK: não possui um padrão formal, mas os testes são vistos como uma etapa do projeto.
+  - Normas IEEE (Institute of Electrical and Eletronics Engineers): em termos oficiais, pode-se dizer que são padrões estabelecidos pelo Software Engineering Standards Comittee(SESC). O objetivo básico é ser ponto de apoio para o desenvolvimento de diversas atividades industriais, no caso, a industria de desenvolvimento de software. O SESC sugere que essas normas sejam um guia para as definições dos processos envolvidos em detalhe. Para testes, o padrão mais importante é o IEEE 829.
+  - Padrão QAI (Quality Assurance Institute): é um instituto internacional de certificações e padrões em qualidade de software. Tem uma proposta de padronização própria no que se refere a plano de testes.
+  - ABNT NBR 12207: é o único padrão nacional existente de testes de software no que se refera à estrutura do processo. Porém, em termos práticos, não é muito seguida. Ela é uma nacionalização das normas IEEE/ISO 12207.
