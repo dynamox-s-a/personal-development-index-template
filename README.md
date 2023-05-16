@@ -239,14 +239,14 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://www.oreilly.com/library/view/extreme-programming-pocket/9781449399849/">[Book] </a>
-        <a href="#">Extreme Programming - Pocket Guide</a> (15.38%)
+        <a href="#">Extreme Programming - Pocket Guide</a> (100%)
       </summary>
       <ul>
         <li>
           Started: 22/01/2023
         </li>
         <li>
-          Finished: 
+          Finished: 30/04/2023
         </li>
       </ul>
       </details>
@@ -255,14 +255,14 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://books.google.com.br/books/about/Clean_Code.html?hl=pt-BR&id=dwSfGQAACAAJ&redir_esc=y">[Book] </a>
-        <a href="#">Clean Code: A handbook of Agile Software Craftsmanship</a> (0%)
+        <a href="#">Clean Code: A handbook of Agile Software Craftsmanship(1,2 chapter)</a> (100%)
       </summary>
       <ul>
         <li>
           Started: 29/01/2023
         </li>
         <li>
-          Finished: 
+          Finished: 20/03/2023
         </li>
       </ul>
       </details>
