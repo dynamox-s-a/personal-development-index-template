@@ -25,56 +25,8 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/refactor-a-react-application-to-typescript-c70bffa0">[Course] </a>
-        <a href="#">Refactor a React Application to TypeScript</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8">[Course] </a>
         <a href="#">Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://egghead.io/courses/typescript-tips-and-tricks-20c4">[Course] </a>
-        <a href="#">TypeScript: Tips and Tricks</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://egghead.io/courses/get-started-building-cli-tools-with-node-js-2af0caec">[Course] </a>
-        <a href="#">Get Started Building CLI Tools with Node.js</a> (0%)
       </summary>
       <ul>
         <li>
@@ -107,6 +59,102 @@ This is a simple document that aims to list and index evidences of personal deve
       <summary>
         <a href="https://egghead.io/courses/build-a-saas-product-with-next-js-supabase-and-stripe-61f2bc20">[Course] </a>
         <a href="#">Build a SaaS product with Next.js, Supabase and Stripe</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Project] </a>
+        <a href="#">My Personal Portfolio</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Project] </a>
+        <a href="#">Budget Generator</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Project] </a>
+        <a href="#">Resume Generator</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Project] </a>
+        <a href="#">Rental System</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Project] </a>
+        <a href="#">freelancers system to Partys and events</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Project] </a>
+        <a href="#">Party Hall Management System</a> (0%)
       </summary>
       <ul>
         <li>
@@ -263,6 +311,22 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
         <li>
           Finished: 20/03/2023
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Project] </a>
+        <a href="#">Psychologist Clinic Control</a> (1%)
+      </summary>
+      <ul>
+        <li>
+          Started: 01/05/2023
+        </li>
+        <li>
+          Finished: 
         </li>
       </ul>
       </details>
