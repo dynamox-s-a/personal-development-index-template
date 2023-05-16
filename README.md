@@ -190,22 +190,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] </a>
-        <a href="#">WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://egghead.io/courses/create-an-ecommerce-store-with-next-js-and-stripe-checkout-562c">[Course] </a>
         <a href="#">Create an eCommerce Store with Next.js and Stripe Checkout</a> (0%)
       </summary>
@@ -233,9 +217,8 @@ This is a simple document that aims to list and index evidences of personal deve
           Finished: 
         </li>
       </ul>
-      </details>
+    </details>
   </li>
-  <li>
   <li>
     <details> 
       <summary>
@@ -252,6 +235,7 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
     <details> 
       <summary>
         <a href="https://www.oreilly.com/library/view/extreme-programming-pocket/9781449399849/">[Book] </a>
