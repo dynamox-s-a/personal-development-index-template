@@ -319,7 +319,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="#">[Project] </a>
-        <a href="#">Psychologist Clinic Control</a> (1%)
+        <a href="#">Psychologist Clinic Control</a> (2%)
       </summary>
       <ul>
         <li>
