@@ -118,14 +118,14 @@ This is a simple document that aims to list and index evidences of personal deve
    <li>
     <details> 
       <summary>
-        <a href=""> [Book] Testes Funcionais de Software </a> (50%) 
+        <a href="https://github.com/ItaloRAmaral/personal-development-index/tree/main/courses/2023/Testes_Funcionais_de_Software"> [Book] Testes Funcionais de Software </a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 01/03/2023
         </li>
         <li>
-          Finished: 
+          Finished: 29/05/2023
         </li>
       </ul>
       </details>
