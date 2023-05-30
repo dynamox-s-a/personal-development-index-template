@@ -334,8 +334,8 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="#">[Workshop] </a>
-        <a href="#">NLW Spacetime Ignite</a> (20%)
+        <a href="https://app.rocketseat.com.br/plus/lesson/aula-01-iniciando-o-projeto-de-ponta-a-ponta-trilha-ignite">[Workshop] </a>
+        <a href="https://github.com/adrianodev97/NLW-12-ignite-spacetime">NLW Spacetime Ignite</a> (30%)
       </summary>
       <ul>
         <li>
