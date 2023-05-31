@@ -109,7 +109,7 @@
   padding: 1rem 1.5rem;
   margin-top: 1rem;
   background: var(--green-500);
-  color: var(white);
+  color: var(--white);
   border-radius: 8px;
   border: 0;
   font-weight: bold;
@@ -119,4 +119,8 @@
 
 .commentForm button[type="submit"]:hover {
   background: var(--green-300);
+}
+
+.commentList {
+  margin-top: 2rem;
 }
