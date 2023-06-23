@@ -139,7 +139,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="#">[Project] </a>
-        <a href="#">freelancers system to Partys and events</a> (0%)
+        <a href="#">Freelancers system to Partys and events</a> (0%)
       </summary>
       <ul>
         <li>
