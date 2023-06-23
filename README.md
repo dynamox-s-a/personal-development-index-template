@@ -167,6 +167,28 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.udemy.com/course/next-js-typescript-with-shopify-integration-full-guide/">[Course] </a>
+        <a href="https://github.com/adrianodev97/Virtual-store-integrated-with-shopify">Next JS & Typescript with Shopify Integration - Full Guide</a> (17.14%)
+      </summary>
+      <ul>
+        <li>
+          Started: 08/03/2023
+        </li>
+        <li>
+          Pause: 01/04/2023
+        </li>
+        <li>
+          Restarted:
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+    </details>
+  </li>
 </ul>
 </br>
 
@@ -235,38 +257,6 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
       </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://egghead.io/courses/create-an-ecommerce-store-with-next-js-and-stripe-checkout-562c">[Course] </a>
-        <a href="#">Create an eCommerce Store with Next.js and Stripe Checkout</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.udemy.com/course/next-js-typescript-with-shopify-integration-full-guide/">[Course] </a>
-        <a href="https://github.com/adrianodev97/Virtual-store-integrated-with-shopify">Next JS & Typescript with Shopify Integration - Full Guide</a> (17.14%)
-      </summary>
-      <ul>
-        <li>
-          Started: 08/03/2023
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-    </details>
   </li>
   <li>
     <details> 
