@@ -326,7 +326,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Course] </a>
-        <a href="#">Beginner's TypeScript</a> (55.55%)
+        <a href="#">Beginner's TypeScript</a> (77.77%)
       </summary>
       <ul>
         <li>
