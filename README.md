@@ -326,14 +326,14 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Course] </a>
-        <a href="#">Beginner's TypeScript</a> (77.77%)
+        <a href="https://github.com/adrianodev97/beginners-typescript">Beginner's TypeScript</a> (100%)
       </summary>
       <ul>
         <li>
           Started: 27/02/2023
         </li>
         <li>
-          Finished: 
+          Finished: 30/06/2023
         </li>
       </ul>
       </details>
