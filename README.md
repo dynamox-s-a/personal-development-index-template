@@ -261,22 +261,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Course] </a>
-        <a href="#">Beginner's TypeScript</a> (55.55%)
-      </summary>
-      <ul>
-        <li>
-          Started: 27/02/2023
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://www.oreilly.com/library/view/extreme-programming-pocket/9781449399849/">[Book] </a>
         <a href="#">Extreme Programming - Pocket Guide</a> (100%)
       </summary>
@@ -338,6 +322,22 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Course] </a>
+        <a href="https://github.com/adrianodev97/beginners-typescript">Beginner's TypeScript</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 27/02/2023
+        </li>
+        <li>
+          Finished: 30/06/2023
+        </li>
+      </ul>
+      </details>
+  </li>
   <!-- <li>
     <details> 
       <summary>
@@ -356,7 +356,6 @@ This is a simple document that aims to list and index evidences of personal deve
   </li> -->
 </ul>
 </br>
-
 
 <hr/>
 
