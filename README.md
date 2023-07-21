@@ -354,6 +354,23 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+         <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] </a>
+        <a href="#">WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 05/07/2023
+        </li>
+        <li>
+          Finished: 14/07/2023
+        </li>
+      </ul>
+      </details>
+  </li>
+  
   <!-- <li>
     <details> 
       <summary>
