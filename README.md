@@ -341,7 +341,23 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] </a>
+        <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">[Article] </a>
+        <a href="#">The clean architecture</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 19/07/2023
+        </li>
+        <li>
+          Finished: 21/07/2023
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+         <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] </a>
         <a href="#">WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (100%)
       </summary>
       <ul>
@@ -354,6 +370,7 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  
   <!-- <li>
     <details> 
       <summary>
