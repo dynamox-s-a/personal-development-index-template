@@ -370,6 +370,22 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Book] </a>
+        <a href="#">Scrum</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 24/07/2023
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
   
   <!-- <li>
     <details> 
