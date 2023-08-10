@@ -293,22 +293,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="#">[Project] </a>
-        <a href="#">Psychologist Clinic Control</a> (2%)
-      </summary>
-      <ul>
-        <li>
-          Started: 01/05/2023
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://app.rocketseat.com.br/plus/lesson/aula-01-iniciando-o-projeto-de-ponta-a-ponta-trilha-ignite">[Workshop] </a>
         <a href="https://github.com/adrianodev97/NLW-12-ignite-spacetime">NLW Spacetime Ignite</a> (100%)
       </summary>
