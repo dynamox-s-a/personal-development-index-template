@@ -374,7 +374,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="#">[Book] </a>
-        <a href="#">Scrum</a> (15%)
+        <a href="#">Scrum</a> (33%)
       </summary>
       <ul>
         <li>
