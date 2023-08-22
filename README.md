@@ -161,5 +161,20 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.audible.com/pd/Software-Engineering-at-Google-Audiobook/B08VLS9Y95">[Book] Software Engineering at Google</a> (5%) 
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-08-22
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+    </details>
+  </li>
 </ul>
 </br>
