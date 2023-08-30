@@ -335,7 +335,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="#">[Book] </a>
-        <a href="#">The Pragmatic Programmer</a> (9%)
+        <a href="#">The Pragmatic Programmer</a> (12%)
       </summary>
       <ul>
         <li>
