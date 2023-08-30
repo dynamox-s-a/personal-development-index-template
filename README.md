@@ -374,14 +374,14 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="#">[Book] </a>
-        <a href="#">Scrum</a> (33%)
+        <a href="#">Scrum</a> (100%)
       </summary>
       <ul>
         <li>
           Started: 24/07/2023
         </li>
         <li>
-          Finished: 
+          Finished: 28/08/2023
         </li>
       </ul>
       </details>
