@@ -370,7 +370,22 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
-  
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Book] </a>
+        <a href="#">The Pragmatic Programmer</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 18/05/2023
+        </li>
+        <li>
+          Finished: 02/10/2023
+        </li>
+      </ul>
+      </details>
+  </li>
   <!-- <li>
     <details> 
       <summary>
