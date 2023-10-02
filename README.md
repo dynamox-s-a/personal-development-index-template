@@ -3,6 +3,7 @@
 This is a simple document that aims to list and index evidences of personal development. Read [this references](./docs/references.md) for aditional details.
 
 </br>
+
 <h1>Backlog</h1>
 <ul>
   <!-- <li>
@@ -138,7 +139,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="#">[Project] </a>
-        <a href="#">freelancers system to Partys and events</a> (0%)
+        <a href="#">Freelancers system to Partys and events</a> (0%)
       </summary>
       <ul>
         <li>
@@ -165,6 +166,28 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
       </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.udemy.com/course/next-js-typescript-with-shopify-integration-full-guide/">[Course] </a>
+        <a href="https://github.com/adrianodev97/Virtual-store-integrated-with-shopify">Next JS & Typescript with Shopify Integration - Full Guide</a> (17.14%)
+      </summary>
+      <ul>
+        <li>
+          Started: 08/03/2023
+        </li>
+        <li>
+          Pause: 01/04/2023
+        </li>
+        <li>
+          Restarted:
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+    </details>
   </li>
 </ul>
 </br>
@@ -238,54 +261,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/create-an-ecommerce-store-with-next-js-and-stripe-checkout-562c">[Course] </a>
-        <a href="#">Create an eCommerce Store with Next.js and Stripe Checkout</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.udemy.com/course/next-js-typescript-with-shopify-integration-full-guide/">[Course] </a>
-        <a href="https://github.com/adrianodev97/Virtual-store-integrated-with-shopify">Next JS & Typescript with Shopify Integration - Full Guide</a> (17.14%)
-      </summary>
-      <ul>
-        <li>
-          Started: 08/03/2023
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Course] </a>
-        <a href="#">Beginner's TypeScript</a> (55.55%)
-      </summary>
-      <ul>
-        <li>
-          Started: 27/02/2023
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://www.oreilly.com/library/view/extreme-programming-pocket/9781449399849/">[Book] </a>
         <a href="#">Extreme Programming - Pocket Guide</a> (100%)
       </summary>
@@ -318,15 +293,79 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="#">[Project] </a>
-        <a href="#">Psychologist Clinic Control</a> (1%)
+        <a href="https://app.rocketseat.com.br/plus/lesson/aula-01-iniciando-o-projeto-de-ponta-a-ponta-trilha-ignite">[Workshop] </a>
+        <a href="https://github.com/adrianodev97/NLW-12-ignite-spacetime">NLW Spacetime Ignite</a> (100%)
       </summary>
       <ul>
         <li>
-          Started: 01/05/2023
+          Started: 16/05/2023
         </li>
         <li>
-          Finished: 
+          Finished: 30/06/2023
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Course] </a>
+        <a href="https://github.com/adrianodev97/beginners-typescript">Beginner's TypeScript</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 27/02/2023
+        </li>
+        <li>
+          Finished: 30/06/2023
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">[Article] </a>
+        <a href="#">The clean architecture</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 19/07/2023
+        </li>
+        <li>
+          Finished: 21/07/2023
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+         <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] </a>
+        <a href="#">WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 05/07/2023
+        </li>
+        <li>
+          Finished: 14/07/2023
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Book] </a>
+        <a href="#">Scrum</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 24/07/2023
+        </li>
+        <li>
+          Finished: 28/08/2023
         </li>
       </ul>
       </details>
@@ -365,3 +404,16 @@ This is a simple document that aims to list and index evidences of personal deve
   </li> -->
 </ul>
 </br>
+
+<hr/>
+
+</br>
+
+<strong>Examples</strong>
+
+- [Adriano Junior](https://github.com/adrianodev97/personal-development-index)
+- [Calil Amaral](https://github.com/amaralc/courses-and-bootcamps)
+- [Carlos Flach](https://github.com/carlosaflach/personal-development-index)
+- [Guilherme Irie](https://github.com/GuilhermeIrie/personal-development-evolution)
+- [Ítalo Amaral](https://github.com/ItaloRAmaral/personal-development-index)
+- [Luana Vefago](https://github.com/luanavfg/personal-development-index)
