@@ -390,14 +390,14 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="#">[Book] </a>
-        <a href="#">Software Engineering at Google</a> (0%)
+        <a href="#">Software Engineering at Google</a> (100%)
       </summary>
       <ul>
         <li>
           Started: 03/10/2023
         </li>
         <li>
-          Finished: 
+          Finished: 19/10/2023
         </li>
       </ul>
       </details>
