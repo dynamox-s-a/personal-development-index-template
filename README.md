@@ -259,7 +259,6 @@ This is a simple document that aims to list and index evidences of personal deve
 </ul>
 </br>
 
-
 <hr/>
 
 </br>
