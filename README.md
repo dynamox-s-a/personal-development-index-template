@@ -24,6 +24,36 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
+        <a href="https://egghead.io/courses/the-beginner-s-guide-to-react">[Course] The Beginner's Guide to React</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/courses/build-high-speed-monorepos-with-nx-and-pnpm-workspaces-27703a7a">[Workshop] Build High-Speed Monorepos with Nx and pnpm Workspaces</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
         <a href="https://egghead.io/courses/scale-react-development-with-nx-4038">[Course] Scale React Development with Nx</a> (0%)
       </summary>
       <ul>
@@ -40,6 +70,21 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Tutorial] Beginners TypeScript</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/courses/up-and-running-with-typescript">[Workshop] Up and Running with TypeScript</a> (0%)
       </summary>
       <ul>
         <li>
@@ -95,6 +140,21 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
       </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/courses/fundamental-next-js-api-and-patterns-a6a7509f">[Course] Fundamental Next.js API and Patterns</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2022-11-26
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
   </li>
   <li>
     <details> 
